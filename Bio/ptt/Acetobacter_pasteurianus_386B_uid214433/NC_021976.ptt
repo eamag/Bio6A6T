@@ -1,0 +1,223 @@
+Acetobacter pasteurianus 386B plasmid Apa386Bp1, complete sequence - 1..194780
+220 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+215..904	-	229	529218540	-	APA386B_1P1	-	-	TetR family transcriptional regulator
+917..1897	+	326	529218541	-	APA386B_1P2	-	-	short-chain dehydrogenase/reductase SDR
+1963..3147	+	394	529218542	-	APA386B_1P3	-	-	metallophosphoesterase
+3217..4131	-	304	529218543	-	APA386B_1P4	-	-	AraC family transcriptional regulator
+4285..5031	+	248	529218544	-	APA386B_1P5	-	-	short-chain dehydrogenase/reductase SDR
+5126..6199	+	357	529218545	-	APA386B_1P6	-	-	NADH:flavin oxidoreductase/NADH oxidase
+6329..6916	+	195	529218546	xynP	APA386B_1P7	-	-	sugar transporter
+6895..7779	+	294	529218547	-	APA386B_1P8	-	-	sugar transporter
+7841..9361	-	506	529218548	-	APA386B_1P9	-	-	major facilitator transporter
+9565..10443	+	292	529218549	lysR	APA386B_1P10	-	-	LysR family transcriptional regulator
+10447..11277	-	276	529218550	-	APA386B_1P11	-	-	hypothetical protein
+11506..12909	+	467	529218551	-	APA386B_1P12	-	-	transcriptional regulator
+13250..13732	+	160	529218552	-	APA386B_1P13	-	-	hypothetical protein
+13757..14731	+	324	529218553	nitA	APA386B_1P14	-	-	aliphatic nitrilase
+14728..15837	+	369	529218554	nifB	APA386B_1P15	-	-	iron-molybdenum cofactorbiosynthesis nitrogenase NifB
+15855..16397	+	180	529239391	-	APA386B_1P16	-	-	GCN5-related N-acetyltransferase
+16397..17365	+	322	529218556	-	APA386B_1P17	-	-	selenophosphate synthetase
+18528..18815	+	95	529218557	-	APA386B_1P18	-	-	hypothetical protein
+18781..20079	+	432	529218558	-	APA386B_1P19	-	-	FAD dependent oxidoreductase
+20094..21866	+	590	529218559	-	APA386B_1P20	-	-	acetyl-CoA synthetase
+21907..22668	-	253	529218560	-	APA386B_1P21	-	-	short-chain dehydrogenase/reductase SDR
+22770..23702	+	310	529218561	-	APA386B_1P22	-	-	transcriptional regulator, LysR family
+23678..24679	-	333	529218562	-	APA386B_1P23	-	-	auxin efflux carrier
+24719..25606	+	295	529239392	lysR	APA386B_1P24	-	-	LysR family transcriptional regulator
+25667..26296	-	209	529218564	-	APA386B_1P25	-	-	lysine exporter protein (LysE/YggA)
+26296..26421	-	41	529218565	-	APA386B_1P26	-	-	hypothetical protein
+26497..26955	+	152	529218566	-	APA386B_1P27	-	-	AsnC family transcriptional regulator
+27189..27413	+	74	529218567	-	APA386B_1P28	-	-	hypothetical protein
+27528..27860	+	110	529218568	abrB	APA386B_1P29	-	-	transcriptional regulator AbrB
+27863..28354	+	163	529218569	-	APA386B_1P30	-	-	hypothetical protein
+28788..29096	-	102	529218570	-	APA386B_1P31	-	-	hypothetical protein
+29513..30265	+	250	529218571	-	APA386B_1P32	-	-	DNA/RNA non-specific endonuclease
+30495..30995	+	166	529218572	mucR	APA386B_1P33	-	-	transcriptional regulator
+30996..31181	-	61	529218573	-	APA386B_1P34	-	-	hypothetical protein
+31447..32040	-	197	529218574	rlgA	APA386B_1P35	-	-	DNA invertase gene RlgA
+31546..31782	+	78	529218575	-	APA386B_1P36	-	-	hypothetical protein
+32491..33681	+	396	529218576	-	APA386B_1P37	-	-	RNA-directed DNA polymerase (reverse transcriptase)
+33678..34367	-	229	529239393	-	APA386B_1P38	-	-	helicase/methyltransferase
+34364..35056	-	230	529218578	-	APA386B_1P39	-	-	helicase/methyltransferase
+35427..35990	+	187	529218579	-	APA386B_1P40	-	-	transposase
+35980..36186	-	68	529218580	-	APA386B_1P41	-	-	helicase domain-containing protein
+36236..37168	+	310	529218581	-	APA386B_1P42	-	-	transposase, IS4
+37149..37292	-	47	529218582	-	APA386B_1P43	-	-	hypothetical protein
+37589..37867	-	92	529218583	-	APA386B_1P45	-	-	hypothetical protein
+37886..38305	-	139	529218584	-	APA386B_1P46	-	-	hypothetical protein
+38296..39357	-	353	529218585	-	APA386B_1P47	-	-	Rieske (2Fe-2S) domain-containing protein
+39880..40089	-	69	529218586	-	APA386B_1P48	-	-	hypothetical protein
+40279..41262	+	327	529218587	-	APA386B_1P49	-	-	hypothetical protein
+41290..42318	+	342	529218588	metE	APA386B_1P50	-	-	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+42636..43523	+	295	529218589	lysR	APA386B_1P51	-	-	LysR family transcriptional regulator
+43941..44660	-	239	529218590	-	APA386B_1P52	-	-	putative transposase
+45142..45810	+	222	529218591	-	APA386B_1P53	-	-	transposase
+45799..46194	-	131	529218592	-	APA386B_1P54	-	-	hypothetical protein
+46726..47613	-	295	529218593	-	APA386B_1P55	-	-	beta-lactamase domain protein
+47666..48031	-	121	529218594	-	APA386B_1P56	-	-	hypothetical protein
+48114..49007	+	297	529218595	-	APA386B_1P57	-	-	LysR family transcriptional regulator
+49066..49812	-	248	529218596	-	APA386B_1P59	-	-	short-chain dehydrogenase/reductase SDR
+49962..50876	+	304	529218597	-	APA386B_1P60	-	-	AraC family transcriptional regulator
+50896..51420	-	174	529218598	-	APA386B_1P61	-	-	hypothetical protein
+51551..51919	+	122	529239394	-	APA386B_1P62	-	-	BadM/Rrf2 family transcriptional regulator
+52875..53705	+	276	529239395	clcA	APA386B_1P63	-	-	chloride channel protein
+53900..54247	+	115	529218601	-	APA386B_1P64	-	-	Transposase
+54268..54657	+	129	529218602	-	APA386B_1P65	-	-	IS4 family transposase
+54733..55623	-	296	529218603	-	APA386B_1P66	-	-	transposase
+55620..55943	-	107	529218604	-	APA386B_1P67	-	-	transposase
+55863..56327	+	154	529218605	pilT	APA386B_1P68	-	-	PilT domain-containing protein
+56621..58702	+	693	529218606	-	APA386B_1P69	-	-	hypothetical protein
+58894..59139	+	81	529218607	-	APA386B_1P70	-	-	hypothetical protein
+59136..59558	+	140	529218608	-	APA386B_1P71	-	-	PilT domain-containing protein
+59648..59935	+	95	529218609	-	APA386B_1P73	-	-	hypothetical protein
+59939..60043	+	34	529218610	-	APA386B_1P74	-	-	hypothetical protein
+60133..60429	+	98	529218611	-	APA386B_1P75	-	-	hypothetical protein
+60398..60739	+	113	529218612	-	APA386B_1P76	-	-	hypothetical protein
+60864..61118	+	84	529218613	-	APA386B_1P77	-	-	hypothetical protein
+61172..61549	-	125	529218614	mucR	APA386B_1P78	-	-	transcriptional regulator
+61768..62010	-	80	529218615	-	APA386B_1P79	-	-	transposase
+62111..62626	+	171	529218616	-	APA386B_1P80	-	-	hypothetical protein
+62627..63532	+	301	529218617	bla	APA386B_1P81	-	-	beta-lactamase
+63562..63891	+	109	529218618	-	APA386B_1P83	-	-	hypothetical protein
+64024..64365	+	113	529218619	-	APA386B_1P84	-	-	hypothetical protein
+64410..64979	+	189	529218620	-	APA386B_1P85	-	-	hypothetical protein
+65542..65919	+	125	529218621	-	APA386B_1P86	-	-	electron transport protein SCO1/SenC
+65934..67274	-	446	529218622	-	APA386B_1P87	-	-	hypothetical protein
+67286..69616	-	776	529218623	-	APA386B_1P88	-	-	TonB-dependent receptor
+69687..70076	-	129	529218624	-	APA386B_1P89	-	-	hypothetical protein
+70303..71130	-	275	529239396	fghA	APA386B_1P90	-	-	S-formylglutathione hydrolase
+71155..71556	-	133	529218626	-	APA386B_1P91	-	-	glyoxalase/bleomycin resistance protein/dioxygenase
+71616..72725	-	369	529239397	adhC	APA386B_1P92	-	-	S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase
+72767..73042	-	91	529218628	-	APA386B_1P93	-	-	regulator protein FrmR
+73435..74295	-	286	529218629	-	APA386B_1P94	-	-	aldehyde reductase/2,5-didehydrogluconate reductase
+74320..75303	-	327	529218630	tas1	APA386B_1P95	-	-	aldo/keto reductase
+75454..76347	+	297	529218631	-	APA386B_1P96	-	-	LysR family transcriptional regulator
+76528..76881	-	117	529239398	-	APA386B_1P97	-	-	hypothetical protein
+77271..77723	-	150	529218633	-	APA386B_1P98	-	-	hypothetical protein
+77889..78962	+	357	529239399	ada	APA386B_1P99	-	-	AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine S-methyltransferase
+79043..79681	+	212	529239400	-	APA386B_1P100	-	-	hypothetical protein
+79731..80492	+	253	529218636	-	APA386B_1P101	-	-	hypothetical protein
+80479..81123	+	214	529218637	alkB	APA386B_1P102	-	-	DNA-N1-methyladenine dioxygenase
+81120..81689	+	189	529218638	tag	APA386B_1P103	-	-	DNA-3-methyladenine glycosylase I
+81923..82894	-	323	529218639	rinQ	APA386B_1P104	-	-	DNA resolvase
+83500..86175	+	891	529218640	-	APA386B_1P105	-	-	hypothetical protein
+86572..88224	+	550	529218641	-	APA386B_1P106	-	-	integrase catalytic subunit
+88227..89150	+	307	529218642	tniB	APA386B_1P108	-	-	TniB family protein
+89143..90144	+	333	529218643	-	APA386B_1P109	-	-	hypothetical protein
+90730..91110	+	126	529218644	-	APA386B_1P111	-	-	hypothetical protein
+91124..91642	+	172	529218645	-	APA386B_1P112	-	-	hypothetical protein
+91608..92015	+	135	529218646	relB	APA386B_1P113	-	-	bifunctional antitoxin/transcriptional repressor RelB
+92158..93288	+	376	529218647	-	APA386B_1P114	-	-	hypothetical protein
+93300..93818	+	172	529218648	-	APA386B_1P115	-	-	hypothetical protein
+93851..94216	+	121	529218649	-	APA386B_1P116	-	-	hypothetical protein
+94229..95275	-	348	529218650	ftsA	APA386B_1P117	-	-	filamentation induced by cAMP protein Fic
+95272..95649	-	125	529218651	-	APA386B_1P118	-	-	hypothetical protein
+95719..97038	-	439	529218652	repC	APA386B_1P119	-	-	replication protein C
+97415..97519	-	34	529218653	-	APA386B_1P120	-	-	hypothetical protein
+97768..98247	-	159	529218654	adhC	APA386B_1P121	-	-	K00121 S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase
+98323..99720	-	465	529218655	-	APA386B_1P122	-	-	low-affinity zinc transport protein
+100072..100683	-	203	529218656	folE	APA386B_1P123	-	-	GTP cyclohydrolase I
+100848..101474	+	208	529218657	-	APA386B_1P124	-	-	hypothetical protein
+101471..101977	+	168	529218658	np20	APA386B_1P125	-	-	ferric/zinc uptake regulator family protein np20
+102019..103896	+	625	529239401	thrS	APA386B_1P126	-	-	threonyl-tRNA synthetase
+103893..105626	+	577	529218660	-	APA386B_1P127	-	-	ABC transporter ATP-binding protein
+105990..106379	+	129	529218661	-	APA386B_1P128	-	-	hypothetical protein
+106451..108781	+	776	529218662	-	APA386B_1P130	-	-	TonB-dependent receptor
+108793..110133	+	446	529218663	-	APA386B_1P131	-	-	hypothetical protein
+110148..110327	-	59	529218664	-	APA386B_1P132	-	-	electron transport transmembrane protein Sco1/SenC/PrrC
+110596..110946	-	116	529218665	-	APA386B_1P133	-	-	transposase
+110998..111513	-	171	529218666	-	APA386B_1P134	-	-	integrase catalytic region
+111547..112914	-	455	529218667	-	APA386B_1P135	-	-	transposase IS116/IS110/IS902 family protein
+113114..113239	-	41	529218668	-	APA386B_1P136	-	-	hypothetical protein
+113258..113383	-	41	529218669	-	APA386B_1P137	-	-	transposase IS3/IS911 family protein
+113569..113892	+	107	529218670	-	APA386B_1P138	-	-	pyridoxal-5'-phosphate-dependent protein beta subunit
+113929..115008	+	359	529218671	-	APA386B_1P139	-	-	transposase
+115326..116990	-	554	529218672	-	APA386B_1P140	-	-	TonB periplasmic protein
+117017..117268	+	83	529218673	-	APA386B_1P141	-	-	hypothetical protein
+117265..119487	+	740	529239402	-	APA386B_1P142	-	-	TonB-dependent receptor
+119935..120111	+	58	529218675	-	APA386B_1P143	-	-	hypothetical protein
+120206..120478	-	90	529218676	-	APA386B_1P144	-	-	prevent-host-death family protein
+120740..120895	+	51	529218677	-	APA386B_1P145	-	-	hypothetical protein
+121625..122101	-	158	529218678	-	APA386B_1P146	-	-	hypothetical protein
+122645..123136	-	163	529218679	-	APA386B_1P147	-	-	hypothetical protein
+123139..123471	-	110	529218680	abrB	APA386B_1P148	-	-	transcriptional regulator AbrB
+123634..123984	+	116	529218681	relB	APA386B_1P149	-	-	bifunctional antitoxin/transcriptional repressor RelB
+124127..125212	+	361	529218682	-	APA386B_1P150	-	-	hypothetical protein
+125225..125836	-	203	529218683	ftsA	APA386B_1P151	-	-	cell filamentation cAMP-inducing protein Fic
+125829..126053	-	74	529218684	-	APA386B_1P152	-	-	hypothetical protein
+126428..128509	-	693	529218685	-	APA386B_1P153	-	-	hypothetical protein
+128838..129023	-	61	529218686	-	APA386B_1P154	-	-	hypothetical protein
+129100..129732	-	210	529218687	res	APA386B_1P155	-	-	resolvase domain-containing protein
+129928..130899	+	323	529218688	-	APA386B_1P156	-	-	outer membrane protein
+131161..131724	+	187	529218689	-	APA386B_1P157	-	-	transposase
+131775..132635	+	286	529218690	-	APA386B_1P158	-	-	outer membrane protein
+133090..133233	+	47	529218691	-	APA386B_1P159	-	-	hypothetical protein
+133478..133867	+	129	529218692	-	APA386B_1P160	-	-	hypothetical protein
+134381..134878	+	165	529239403	mucR	APA386B_1P163	-	-	transcriptional regulator
+134881..135138	+	85	529218694	-	APA386B_1P164	-	-	hypothetical protein
+135135..136442	+	435	529218695	-	APA386B_1P165	-	-	hypothetical protein
+136606..137223	-	205	529218696	-	APA386B_1P167	-	-	lysine exporter protein (LysE/YggA)
+137320..137625	-	101	529218697	-	APA386B_1P168	-	-	hypothetical protein
+138009..138452	-	147	529218698	-	APA386B_1P169	-	-	hypothetical protein
+138456..141212	-	918	529218699	traA	APA386B_1P170	-	-	conjugal exonuclease V alpha subunit TraA
+141212..141520	-	102	529218700	-	APA386B_1P171	-	-	hypothetical protein
+141659..143329	-	556	529218701	-	APA386B_1P172	-	-	outer membrane protein
+143542..144138	+	198	529218702	res	APA386B_1P173	-	-	resolvase domain-containing protein
+144168..144458	-	96	529218703	ych	APA386B_1P174	-	-	WGR domain-containing protein
+144480..144758	-	92	529218704	hbsU	APA386B_1P175	-	-	Histone-like bacterial DNA-binding protein
+144854..145606	-	250	529218705	-	APA386B_1P176	-	-	prophage antirepressor
+145654..146715	+	353	529218706	-	APA386B_1P177	-	-	hypothetical protein
+146833..147681	+	282	529239404	-	APA386B_1P178	-	-	hypothetical protein
+147684..148148	+	154	529218708	-	APA386B_1P179	-	-	hypothetical protein
+148251..149048	+	265	529218709	-	APA386B_1P180	-	-	hypothetical protein
+149060..149461	+	133	529218710	-	APA386B_1P181	-	-	hypothetical protein
+149483..149662	-	59	529218711	-	APA386B_1P182	-	-	hypothetical protein
+149711..150022	-	103	529218712	-	APA386B_1P184	-	-	hypothetical protein
+150051..150251	-	66	529218713	-	APA386B_1P185	-	-	hypothetical protein
+150248..150712	-	154	529218714	-	APA386B_1P186	-	-	hypothetical protein
+150849..151340	-	163	529218715	ntrR	APA386B_1P187	-	-	transcriptional regulator NtrR/PilT
+151601..152017	-	138	529218716	-	APA386B_1P188	-	-	hypothetical protein
+152014..152454	-	146	529218717	-	APA386B_1P189	-	-	plasmid protein
+152517..152831	-	104	529218718	ssb	APA386B_1P190	-	-	single-strand DNA-binding protein Ssb
+152886..153005	-	39	529218719	ssb	APA386B_1P191	-	-	single-strand DNA-binding protein Ssb
+153320..153646	-	108	529218720	-	APA386B_1P192	-	-	hypothetical protein
+153663..153860	-	65	529218721	-	APA386B_1P193	-	-	hypothetical protein
+153878..154075	-	65	529218722	-	APA386B_1P194	-	-	hypothetical protein
+154095..154241	-	48	529218723	-	APA386B_1P195	-	-	hypothetical protein
+154234..154536	-	100	529218724	-	APA386B_1P196	-	-	hypothetical protein
+154596..154703	-	35	529218725	-	APA386B_1P197	-	-	hypothetical protein
+154823..155077	+	84	529218726	-	APA386B_1P198	-	-	hypothetical protein
+155118..155252	+	44	529218727	-	APA386B_1P199	-	-	hypothetical protein
+155465..155797	+	110	529218728	-	APA386B_1P200	-	-	hypothetical protein
+155830..155940	-	36	529218729	-	APA386B_1P201	-	-	hypothetical protein
+155921..156496	+	191	529218730	mucR	APA386B_1P202	-	-	transcriptional regulator
+156960..157373	+	137	529218731	-	APA386B_1P203	-	-	transposase
+157705..160503	-	932	529218732	-	APA386B_1P204	-	-	hypothetical protein
+160657..161055	-	132	529218733	-	APA386B_1P205	-	-	hypothetical protein
+161510..161677	+	55	529218734	-	APA386B_1P206	-	-	hypothetical protein
+161646..161924	+	92	529218735	-	APA386B_1P207	-	-	transcriptional regulator, XRE family
+161989..163935	-	648	529218736	parB	APA386B_1P208	-	-	plasmid partitioning protein
+164087..169213	-	1708	529239405	snf2	APA386B_1P209	-	-	helicase domain protein
+170300..170998	+	232	529218738	-	APA386B_1P210	-	-	hypothetical protein
+171732..172655	-	307	529218739	repA	APA386B_1P211	-	-	plasmid encoded RepA protein
+173147..174637	-	496	529218740	-	APA386B_1P212	-	-	integrase-like protein
+174944..175309	+	121	529218741	-	APA386B_1P213	-	-	hypothetical protein
+175865..176416	+	183	529239406	-	APA386B_1P214	-	-	hypothetical protein
+176893..177375	-	160	529218743	hspD	APA386B_1P215	-	-	heat shock protein HSP20
+178596..178796	+	66	529218744	-	APA386B_1P216	-	-	hypothetical protein
+178825..179106	+	93	529218745	fabF	APA386B_1P217	-	-	acyl-carrier-protein synthase II
+179333..182494	-	1053	529218746	dnaE	APA386B_1P218	-	-	error-prone DNA polymerase
+182491..184014	-	507	529218747	-	APA386B_1P219	-	-	hypothetical protein
+183929..184705	-	258	529218748	-	APA386B_1P220	-	-	hypothetical protein
+184851..186953	+	700	529218749	uvrD	APA386B_1P221	-	-	ATP-dependent DNA helicase protein
+187249..187812	+	187	529218750	-	APA386B_1P222	-	-	transposase
+187838..188329	-	163	529218751	-	APA386B_1P223	-	-	hypothetical protein
+188356..189117	-	253	529218752	fabG	APA386B_1P224	-	-	short-chain dehydrogenase/reductase SDR
+189277..189909	-	210	529218753	tetR	APA386B_1P225	-	-	TetR family transcriptional regulator
+189972..190139	-	55	529218754	-	APA386B_1P226	-	-	oxidoreductase
+190205..190684	-	159	529218755	yjgI	APA386B_1P227	-	-	putative oxidoreductase
+190945..192138	+	397	529218756	-	APA386B_1P228	-	-	major facilitator family transporter
+192297..193190	+	297	529218757	deh	APA386B_1P230	-	-	haloacetate dehalogenase H-1
+193328..193894	-	188	529218758	ydhM	APA386B_1P231	-	-	TetR family transcriptional regulator
+194042..194683	+	213	529218759	GTT2	APA386B_1P232	-	-	glutathione S-transferase domain-containing protein

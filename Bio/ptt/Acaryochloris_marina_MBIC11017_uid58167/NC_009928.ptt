@@ -1,0 +1,365 @@
+Acaryochloris marina MBIC11017 plasmid pREB3, complete sequence - 1..273121
+362 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+330..467	+	45	158340457	-	AM1_C0002	-	-	hypothetical protein
+475..1260	-	261	158340458	-	AM1_C0003	-	-	hypothetical protein
+1457..1954	-	165	158340459	-	AM1_C0004	-	COG1077D	rod shape-determining-related protein
+2064..2267	-	67	158340460	-	AM1_C0005	-	-	hypothetical protein
+2686..3132	-	148	158340461	-	AM1_C0006	-	-	hypothetical protein
+3293..3634	-	113	158340462	-	AM1_C0007	-	-	hypothetical protein
+3677..3832	-	51	158340463	-	AM1_C0008	-	-	hypothetical protein
+4020..4808	-	262	158340464	-	AM1_C0009	-	COG2226H	hypothetical protein
+4853..5197	-	114	158340465	-	AM1_C0010	-	-	hypothetical protein
+5263..5556	-	97	158340466	-	AM1_C0011	-	-	hypothetical protein
+5909..6154	+	81	158340467	-	AM1_C0012	-	COG1476K	helix-turn-helix domain-containing protein
+6861..10283	+	1140	158340468	-	AM1_C0013	-	-	hypothetical protein
+10624..12657	-	677	158340469	-	AM1_C0014	-	COG0642T	two-component hybrid sensor and regulator
+13046..14269	-	407	158340470	-	AM1_C0015	-	-	hypothetical protein
+14446..15729	+	427	158340471	-	AM1_C0016	-	COG4585T	hypothetical protein
+15735..16382	+	215	158340472	-	AM1_C0017	-	COG2197TK	two-component LuxR family transcriptional regulator
+16820..18298	+	492	158340473	-	AM1_C0018	-	COG1566V	RND family efflux transporter MFP subunit
+18298..21555	+	1085	158340474	-	AM1_C0019	-	COG0841V	acriflavin resistance protein, putative
+21749..22207	+	152	158340475	-	AM1_C0020	-	-	hypothetical protein
+22334..22447	+	37	158340476	-	AM1_C0021	-	-	hypothetical protein
+22619..22822	+	67	158340477	-	AM1_C0022	-	COG0657I	hypothetical protein
+23424..26213	+	929	158340478	-	AM1_C0023	-	COG0642T	two-component hybrid sensor and regulator
+26237..26365	-	42	158340479	-	AM1_C0024	-	-	hypothetical protein
+26367..26504	-	45	158340480	-	AM1_C0025	-	-	hypothetical protein
+26476..26616	-	46	158340481	-	AM1_C0026	-	-	hypothetical protein
+26697..27077	-	126	158340482	-	AM1_C0027	-	-	hypothetical protein
+27088..28317	-	409	158340483	-	AM1_C0028	-	COG0739M	M23 peptidase domain-containing protein
+30203..30343	-	46	158340484	-	AM1_C0029	-	-	hypothetical protein
+30344..31792	-	482	158340485	-	AM1_C0030	-	-	hypothetical protein
+31792..32511	-	239	158340486	-	AM1_C0031	-	-	hypothetical protein
+32541..33821	-	426	158340487	-	AM1_C0032	-	-	hypothetical protein
+33829..34980	-	383	158340488	-	AM1_C0033	-	-	hypothetical protein
+34970..38116	-	1048	158340489	-	AM1_C0034	-	COG3451U	hypothetical protein
+38129..38680	-	183	158340490	-	AM1_C0035	-	-	hypothetical protein
+38716..40809	-	697	158340491	-	AM1_C0036	-	COG0568K	RNA polymerase sigma-2 subunit
+40843..41013	-	56	158340492	-	AM1_C0037	-	-	hypothetical protein
+41050..42276	-	408	158340493	-	AM1_C0038	-	-	hypothetical protein
+42364..42804	-	146	158340494	-	AM1_C0039	-	-	hypothetical protein
+43387..46911	-	1174	158340495	-	AM1_C0040	-	-	hypothetical protein
+47591..48616	-	341	158340496	-	AM1_C0041	-	COG1475K	hypothetical protein
+48768..49229	-	153	158340497	-	AM1_C0042	-	-	hypothetical protein
+49780..50832	+	350	158340498	-	AM1_C0043	-	-	hypothetical protein
+50837..51295	+	152	158340499	-	AM1_C0044	-	COG1661R	hypothetical protein
+51334..52143	+	269	158340500	-	AM1_C0045	-	COG0388R	carbon-nitrogen hydrolase family protein
+52244..52558	-	104	158340501	-	AM1_C0046	-	COG0629L	single-stranded DNA-binding protein
+52684..53505	+	273	158340502	-	AM1_C0047	-	-	hypothetical protein
+53557..53802	-	81	158340503	-	AM1_C0048	-	COG0724R	RNA-binding protein
+53775..53936	-	53	158340504	-	AM1_C0049	-	-	hypothetical protein
+54103..54990	+	295	158340505	-	AM1_C0050	-	COG0350L	methylated DNA-protein cysteine methyltransferase
+54990..55871	+	293	158340506	-	AM1_C0051	-	-	hypothetical protein
+55983..56918	-	311	158340507	-	AM1_C0052	-	COG0583K	LysR family transcriptional regulator
+57058..57591	+	177	158340508	-	AM1_C0053	-	-	hypothetical protein
+57675..58619	+	314	158340509	-	AM1_C0054	-	COG0604CR	oxidoreductase, zinc-binding dehydrogenase family protein
+58753..59643	-	296	158340510	-	AM1_C0055	-	COG0583K	LysR family transcriptional regulator
+59946..60371	+	141	158340511	-	AM1_C0056	-	COG3631R	hypothetical protein
+60420..61085	+	221	158340512	-	AM1_C0057	-	COG2085R	NADP oxidoreductase, coenzyme f420-dependent
+61171..62139	+	322	158340513	-	AM1_C0058	-	COG0604CR	quinone oxidoreductase/Zn-containing alcohol dehydrogenase, putative
+62567..63160	+	197	158340514	-	AM1_C0059	-	COG2128S	hypothetical protein
+63505..64326	-	273	158340515	-	AM1_C0060	-	COG1922M	glycosyl transferase, WecB/TagA/CpsF family protein, putative
+65300..65512	+	70	158340516	-	AM1_C0061	-	-	hypothetical protein
+65512..65946	+	144	158340517	-	AM1_C0062	-	COG0571K	hypothetical protein
+66151..66363	+	70	158340518	-	AM1_C0063	-	-	hypothetical protein
+66314..66979	+	221	158340519	-	AM1_C0064	-	-	hypothetical protein
+67480..68097	+	205	158340520	-	AM1_C0065	-	-	hypothetical protein
+68417..69148	-	243	158340521	-	AM1_C0066	-	COG1484L	transposase-associated ATP-binding protein, putative
+68976..70712	-	578	158340522	-	AM1_C0067	-	-	transposase, putative
+71092..71457	+	121	158340523	-	AM1_C0068	-	-	hypothetical protein
+71578..71691	-	37	158340524	-	AM1_C0069	-	-	hypothetical protein
+71699..71833	+	44	158340525	-	AM1_C0070	-	-	hypothetical protein
+72074..72199	-	41	158340526	-	AM1_C0071	-	-	hypothetical protein
+72313..72459	-	48	158340527	-	AM1_C0072	-	-	hypothetical protein
+72416..72661	-	81	158340528	-	AM1_C0073	-	-	hypothetical protein
+72752..73027	-	91	158340529	-	AM1_C0074	-	COG0724R	RNA-binding protein
+73270..74019	-	249	158340530	-	AM1_C0075	-	COG0330O	hypothetical protein
+74220..75284	-	354	158340531	-	AM1_C0076	-	-	hypothetical protein
+75338..75811	-	157	158340532	-	AM1_C0077	-	COG0744M	1A family penicillin-binding protein
+75949..77679	+	576	158340533	-	AM1_C0078	-	-	transposase, putative
+77468..78223	+	251	158340534	-	AM1_C0079	-	COG1484L	transposase-associated ATP-binding protein, putative
+78542..79390	-	282	158340535	-	AM1_C0080	-	COG2801L	integrase, catalytic region
+79384..79644	-	86	158340536	-	AM1_C0081	-	-	hypothetical protein
+81706..81828	-	40	158340537	-	AM1_C0084	-	-	hypothetical protein
+81825..82574	-	249	158340538	comB	AM1_C0085	-	COG2045HR	2-phosphosulfolactate phosphatase
+82752..83498	+	248	158340539	-	AM1_C0086	-	COG0745TK	two-component transcriptional regulator
+83562..83924	+	120	158340540	-	AM1_C0087	-	-	hypothetical protein
+84033..84182	-	49	158340541	-	AM1_C0088	-	-	hypothetical protein
+84144..84302	+	52	158340542	-	AM1_C0089	-	-	hypothetical protein
+84438..85217	-	259	158340543	-	AM1_C0090	-	-	hypothetical protein
+85497..85619	-	40	158340544	-	AM1_C0091	-	-	hypothetical protein
+85815..86519	+	234	158340545	cpcG	AM1_C0092	-	-	phycobilisome rod-core linker polypeptide; CpcG
+86786..87190	-	134	158340546	cpcD	AM1_C0093	-	-	phycobilisome linker protein
+87205..88077	-	290	158340547	cpcC	AM1_C0094	-	-	phycobilisome 32.1 kDa linker polypeptide
+88205..88333	+	42	158340548	-	AM1_C0095	-	-	hypothetical protein
+88475..88600	+	41	158340550	-	AM1_C0097	-	-	hypothetical protein
+88597..89085	-	162	158340549	cpcA	AM1_C0096	-	-	phycocyanin, alpha subunit
+89170..89688	-	172	158340551	cpcB	AM1_C0098	-	-	phycocyanin, beta subunit
+90316..90804	-	162	158340552	cpcA	AM1_C0099	-	-	phycocyanin, alpha subunit
+90873..91391	-	172	158340553	cpcB	AM1_C0100	-	-	phycocyanin, beta subunit
+91704..92417	-	237	158340554	-	AM1_C0101	-	COG0745TK	two-component transcriptional regulator
+92763..93581	-	272	158340555	cpcG	AM1_C0102	-	-	phycobilisome rod-core linker polypeptide; CpcG
+94636..94821	+	61	158340556	-	AM1_C0103	-	-	hypothetical protein
+94934..95062	+	42	158340557	-	AM1_C0104	-	-	hypothetical protein
+95613..96647	+	344	158340558	hli	AM1_C0105	-	-	high light inducible protein
+96690..96821	-	43	158340559	-	AM1_C0106	-	-	hypothetical protein
+97176..98336	+	386	158340560	hemH	AM1_C0107	-	COG0276H	ferrochelatase
+98498..99214	+	238	158340561	-	AM1_C0108	-	COG5398P	heme oxygenase
+99224..99349	-	41	158340562	-	AM1_C0109	-	-	hypothetical protein
+99516..99926	+	136	158340564	-	AM1_C0111	-	-	hypothetical protein
+99908..100162	-	84	158340563	-	AM1_C0110	-	-	hypothetical protein
+100198..100329	-	43	158340565	-	AM1_C0112	-	-	hypothetical protein
+100353..100490	-	45	158340566	-	AM1_C0113	-	-	hypothetical protein
+101252..101812	+	186	158340567	-	AM1_C0114	-	-	hypothetical protein
+103003..103188	+	61	158340569	-	AM1_C0117	-	-	R-phycocyanin-2 subunit alpha
+103185..103298	-	37	158340568	-	AM1_C0116	-	-	hypothetical protein
+103435..104259	+	274	158340570	cpcE	AM1_C0118	-	COG1413C	phycocyanobilin lyase subunit alpha
+104760..105353	+	197	158340571	cpcT	AM1_C0119	-	-	CpcT protein, putative
+105763..106686	+	307	158340572	-	AM1_C0120	-	-	hypothetical protein
+106701..107144	+	147	158340573	-	AM1_C0121	-	-	hypothetical protein
+107167..107724	-	185	158340574	-	AM1_C0122	-	-	hypothetical protein
+107732..108379	-	215	158340575	-	AM1_C0123	-	COG3415L	hypothetical protein
+108712..108843	+	43	158340576	-	AM1_C0124	-	-	hypothetical protein
+109108..109641	+	177	158340577	-	AM1_C0125	-	COG3293L	IS4 family transposase
+109803..109922	-	39	158340578	-	AM1_C0126	-	-	hypothetical protein
+110286..110729	+	147	158340579	-	AM1_C0127	-	-	hypothetical protein
+110788..111498	-	236	158340580	-	AM1_C0128	-	-	hypothetical protein
+111646..111771	-	41	158340581	-	AM1_C0129	-	-	hypothetical protein
+111731..112396	-	221	158340582	-	AM1_C0130	-	-	hypothetical protein
+112410..112889	-	159	158340583	-	AM1_C0131	-	-	hypothetical protein
+112894..113115	-	73	158340584	-	AM1_C0132	-	COG1598S	hypothetical protein
+113102..113317	-	71	158340585	-	AM1_C0133	-	-	hypothetical protein
+113478..114524	+	348	158340586	xerC	AM1_C0134	-	COG4973L	tyrosine recombinase XerC
+114731..115426	-	231	158340587	-	AM1_C0135	-	COG5464S	hypothetical protein
+115523..115741	-	72	158340588	-	AM1_C0136	-	-	hypothetical protein
+116038..116154	-	38	158340589	-	AM1_C0137	-	-	hypothetical protein
+116153..116293	+	46	158340590	-	AM1_C0138	-	-	hypothetical protein
+116352..116663	+	103	158340591	-	AM1_C0139	-	COG0633C	ferredoxin, 2Fe-2S type
+116741..117013	-	90	158340592	-	AM1_C0140	-	-	hypothetical protein
+117110..118771	-	553	158340593	-	AM1_C0141	-	COG3666L	transposase, putative
+119024..119146	+	40	158340595	-	AM1_C0143	-	-	hypothetical protein
+119140..119268	-	42	158340594	-	AM1_C0142	-	-	hypothetical protein
+119299..119562	-	87	158340596	-	AM1_C0144	-	-	hypothetical protein
+119899..120054	-	51	158340597	-	AM1_C0145	-	-	hypothetical protein
+120290..121258	+	322	158340598	-	AM1_C0146	-	COG3329R	hypothetical protein
+121263..121568	+	101	158340599	glnB	AM1_C0147	-	COG0347E	nitrogen regulatory protein P-II, putative
+121712..122089	-	125	158340600	-	AM1_C0148	-	-	hypothetical protein
+122089..122487	-	132	158340601	-	AM1_C0149	-	-	hypothetical protein
+122539..122775	+	78	158340602	-	AM1_C0150	-	-	hypothetical protein
+124284..124415	-	43	158340603	-	AM1_C0153	-	-	hypothetical protein
+124521..124661	-	46	158340604	-	AM1_C0154	-	-	hypothetical protein
+124756..125049	-	97	158340605	-	AM1_C0155	-	-	hypothetical protein
+125115..125261	+	48	158340606	-	AM1_C0156	-	-	hypothetical protein
+125340..125459	-	39	158340607	-	AM1_C0157	-	-	hypothetical protein
+125531..125914	+	127	158340608	-	AM1_C0158	-	-	hypothetical protein
+125987..126400	+	137	158340609	-	AM1_C0159	-	-	hypothetical protein
+126644..126823	-	59	158340610	-	AM1_C0160	-	-	hypothetical protein
+128073..128192	-	39	158340611	-	AM1_C0163	-	-	hypothetical protein
+128481..128879	-	132	158340612	-	AM1_C0164	-	COG4828S	hypothetical protein
+129094..129234	+	46	158340613	-	AM1_C0165	-	-	hypothetical protein
+129694..130485	-	263	158340614	-	AM1_C0166	-	COG5486S	metal-binding integral membrane protein, putative
+130520..131152	-	210	158340615	-	AM1_C0167	-	COG5588S	hypothetical protein
+131214..131339	-	41	158340616	-	AM1_C0168	-	-	hypothetical protein
+131544..132722	+	392	158340617	-	AM1_C0169	-	COG1368M	hypothetical protein
+132749..133909	+	386	158340618	-	AM1_C0170	-	-	hypothetical protein
+133928..134098	-	56	158340619	-	AM1_C0171	-	-	hypothetical protein
+134162..134347	-	61	158340620	-	AM1_C0172	-	-	hypothetical protein
+134653..135027	-	124	158340621	-	AM1_C0173	-	-	hypothetical protein
+136909..137754	-	281	158340622	-	AM1_C0176	-	COG5464S	hypothetical protein
+138126..138278	-	50	158340623	-	AM1_C0177	-	-	hypothetical protein
+138351..141356	-	1001	158340624	putA	AM1_C0178	-	COG1012C	delta-1-pyrroline-5-carboxylate dehydrogenase
+142163..142795	+	210	158340625	-	AM1_C0179	-	-	hypothetical protein
+142953..144125	+	390	158340626	-	AM1_C0180	-	COG0784T	response regulator, putative
+144322..144522	-	66	158340627	-	AM1_C0181	-	-	hypothetical protein
+144498..144878	-	126	158340628	-	AM1_C0182	-	-	hypothetical protein
+144886..145542	-	218	158340629	-	AM1_C0183	-	COG3415L	hypothetical protein
+145509..145820	-	103	158340630	-	AM1_C0184	-	-	transposase, putative
+145989..146702	+	237	158340631	pcyA	AM1_C0185	-	-	phycocyanobilin:ferredoxin oxidoreductase
+146748..146966	-	72	158340632	-	AM1_C0186	-	-	hypothetical protein
+147131..147256	-	41	158340633	-	AM1_C0187	-	-	hypothetical protein
+147265..147561	-	98	158340634	-	AM1_C0188	-	COG3293L	hypothetical protein
+147747..147866	+	39	158340635	-	AM1_C0189	-	-	hypothetical protein
+147869..148030	+	53	158340636	-	AM1_C0190	-	-	hypothetical protein
+148042..148530	-	162	158340637	cpcA	AM1_C0191	-	-	phycocyanin, alpha subunit
+148599..149117	-	172	158340638	cpcB	AM1_C0192	-	-	phycocyanin, beta subunit
+149384..149590	-	68	158340639	-	AM1_C0193	-	COG0745TK	transcriptional regulator
+149679..149852	-	57	158340640	-	AM1_C0194	-	COG0745TK	hypothetical protein
+150050..150271	-	73	158340641	-	AM1_C0195	-	-	hypothetical protein
+152332..152445	-	37	158340642	-	AM1_C0199	-	-	hypothetical protein
+152876..152998	-	40	158340281	-	AM1_C0200	-	-	hypothetical protein
+153193..153459	+	88	158340282	-	AM1_C0201	-	COG3293L	transposase, putative
+153654..154034	+	126	158340283	-	AM1_C0202	-	-	transposase
+154225..155040	-	271	158340284	cpcG	AM1_C0203	-	-	phycobilisome rod-core linker polypeptide; CpcG
+156084..157244	+	386	158340285	hemH	AM1_C0204	-	COG0276H	ferrochelatase
+157406..158122	+	238	158340286	-	AM1_C0205	-	COG5398P	heme oxygenase 1
+158426..158722	+	98	158340287	-	AM1_C0206	-	COG3293L	hypothetical protein
+158731..158856	+	41	158340288	-	AM1_C0207	-	-	hypothetical protein
+159021..159155	+	44	158340289	-	AM1_C0208	-	-	hypothetical protein
+159509..160255	+	248	158340290	-	AM1_C0210	-	COG2801L	integrase, catalytic region
+160369..160527	+	52	158340291	-	AM1_C0211	-	-	hypothetical protein
+161040..161558	+	172	158340292	cpcB	AM1_C0212	-	-	phycocyanin, beta subunit
+161643..162131	+	162	158340293	cpcA	AM1_C0213	-	-	phycocyanin, alpha subunit
+162369..162539	+	56	158340294	-	AM1_C0214	-	-	hypothetical protein
+162530..163402	+	290	158340295	cpcC	AM1_C0215	-	-	phycobilisome 32.1 kDa linker polypeptide
+163417..163821	+	134	158340296	cpcD	AM1_C0216	-	-	phycobilisome linker protein
+164393..165019	+	208	158340297	cpcS	AM1_C0217	-	-	CpcS protein, putative
+166612..166899	+	95	158340298	-	AM1_C0219	-	COG3293L	hypothetical protein
+167047..167250	-	67	158340299	-	AM1_C0220	-	-	phycobilisome degradation family protein
+167657..167896	-	79	158340300	-	AM1_C0221	-	-	hypothetical protein
+168075..168251	-	58	158340301	-	AM1_C0222	-	-	hypothetical protein
+168077..169111	+	344	158340302	-	AM1_C0223	-	COG3464L	transposase
+169126..169764	-	212	158340303	-	AM1_C0224	-	-	hypothetical protein
+169791..169907	-	38	158340304	-	AM1_C0225	-	-	hypothetical protein
+169979..170122	-	47	158340305	-	AM1_C0226	-	-	hypothetical protein
+170079..170324	-	81	158340306	-	AM1_C0227	-	-	hypothetical protein
+170399..170584	-	61	158340307	-	AM1_C0228	-	-	hypothetical protein
+170686..170814	+	42	158340308	-	AM1_C0229	-	-	hypothetical protein
+171883..172056	+	57	158340309	-	AM1_C0231	-	-	hypothetical protein
+172143..172358	-	71	158340310	-	AM1_C0232	-	-	hypothetical protein
+173064..173291	+	75	158340311	-	AM1_C0233	-	COG3677L	hypothetical protein
+173378..173518	-	46	158340312	-	AM1_C0234	-	-	hypothetical protein
+173728..173910	+	60	158340313	-	AM1_C0235	-	-	hypothetical protein
+173961..174947	-	328	158340314	-	AM1_C0236	-	COG2207K	AraC family transcriptional regulator
+174944..175060	-	38	158340315	-	AM1_C0237	-	-	hypothetical protein
+175080..175490	+	136	158340316	-	AM1_C0238	-	COG3686S	hypothetical protein
+175501..176187	+	228	158340317	-	AM1_C0239	-	COG1028IQR	short chain dehydrogenase/reductase family oxidoreductase
+176366..177295	+	309	158340318	-	AM1_C0240	-	COG1357S	pentapeptide repeat-containing protein
+177311..178165	+	284	158340319	-	AM1_C0241	-	COG1357S	pentapeptide repeat-containing protein
+178323..178442	-	39	158340320	-	AM1_C0242	-	-	hypothetical protein
+178558..178680	-	40	158340321	-	AM1_C0243	-	-	hypothetical protein
+178795..179199	+	134	158340322	-	AM1_C0244	-	COG3677L	hypothetical protein
+179219..179791	+	190	158340323	-	AM1_C0246	-	-	hypothetical protein
+180569..180787	+	72	158340324	-	AM1_C0247	-	-	hypothetical protein
+180817..180936	-	39	158340325	-	AM1_C0248	-	-	hypothetical protein
+181131..181244	-	37	158340326	-	AM1_C0250	-	-	hypothetical protein
+181265..181690	-	141	158340327	-	AM1_C0251	-	COG1961L	resolvase domain-containing protein
+182237..182683	-	148	158340328	-	AM1_C0253	-	COG1943L	IS200 family transposase
+182770..182949	+	59	158340329	-	AM1_C0254	-	-	hypothetical protein
+182979..184082	-	367	158340330	-	AM1_C0255	-	-	hypothetical protein
+184235..184453	-	72	158340331	-	AM1_C0256	-	-	hypothetical protein
+184713..184853	-	46	158340332	-	AM1_C0257	-	-	hypothetical protein
+185238..185351	+	37	158340333	-	AM1_C0258	-	-	hypothetical protein
+185373..187394	+	673	158340334	-	AM1_C0259	-	COG0745TK	two-component response regulator
+187953..188129	-	58	158340335	-	AM1_C0260	-	-	hypothetical protein
+188324..188449	-	41	158340336	-	AM1_C0261	-	-	hypothetical protein
+188443..189318	+	291	158340337	-	AM1_C0262	-	-	hypothetical protein
+189610..189729	-	39	158340338	-	AM1_C0263	-	-	hypothetical protein
+189837..190613	-	258	158340339	-	AM1_C0264	-	-	hypothetical protein
+190685..190849	-	54	158340340	-	AM1_C0265	-	-	hypothetical protein
+191276..191773	+	165	158340341	-	AM1_C0266	-	-	hypothetical protein
+192025..192159	+	44	158340342	-	AM1_C0267	-	-	hypothetical protein
+192410..192544	-	44	158340343	-	AM1_C0268	-	-	hypothetical protein
+192668..192787	+	39	158340344	-	AM1_C0269	-	-	hypothetical protein
+192893..193159	-	88	158340345	-	AM1_C0270	-	-	hypothetical protein
+193489..194769	-	426	158340346	-	AM1_C0271	-	COG0476H	ThiF family protein, putative
+195014..195667	-	217	158340347	cpcF	AM1_C0272	-	COG1413C	phycocyanin alpha phycocyanobilin lyase; CpcF
+196087..196905	+	272	158340348	-	AM1_C0273	-	COG1468L	hypothetical protein
+198125..198622	+	165	158340349	-	AM1_C0274	-	-	hypothetical protein
+198974..199558	+	194	158340350	-	AM1_C0275	-	-	hypothetical protein
+199717..199983	+	88	158340351	-	AM1_C0276	-	COG1359S	antibiotic biosynthesis monooxygenase, putative
+200092..200361	+	89	158340352	-	AM1_C0277	-	-	antibiotic biosynthesis monooxygenase, putative
+200378..200527	-	49	158340353	-	AM1_C0278	-	-	hypothetical protein
+200669..201007	+	112	158340354	-	AM1_C0279	-	-	hypothetical protein
+201186..201302	+	38	158340355	-	AM1_C0280	-	-	hypothetical protein
+201277..202032	+	251	158340356	-	AM1_C0281	-	COG2930S	hypothetical protein
+202079..202732	+	217	158340357	-	AM1_C0282	-	COG1926R	phosphoribosyltransferase, putative
+202778..203032	-	84	158340358	-	AM1_C0283	-	-	hypothetical protein
+203200..204000	+	266	158340359	-	AM1_C0284	-	COG3293L	IS4 family transposase
+204186..204323	-	45	158340360	-	AM1_C0285	-	-	hypothetical protein
+204304..204426	+	40	158340361	-	AM1_C0286	-	-	hypothetical protein
+204622..205218	+	198	158340362	-	AM1_C0287	-	COG1192D	chromosome partitioning family protein (ParA)
+205215..206147	+	310	158340363	-	AM1_C0288	-	COG1475K	ParB family chromosome partitioning protein
+206346..206768	-	140	158340364	-	AM1_C0289	-	-	hypothetical protein
+206979..207224	+	81	158340365	-	AM1_C0290	-	-	hypothetical protein
+207349..207753	-	134	158340366	-	AM1_C0291	-	-	hypothetical protein
+207929..208588	-	219	158340367	-	AM1_C0292	-	-	hypothetical protein
+208974..210422	-	482	158340368	-	AM1_C0293	-	COG0190H	hypothetical protein
+210412..210900	-	162	158340369	-	AM1_C0294	-	-	hypothetical protein
+210905..211660	-	251	158340370	-	AM1_C0295	-	COG0463M	hypothetical protein
+211860..212648	+	262	158340371	-	AM1_C0296	-	COG2887L	endonuclease
+212688..213173	+	161	158340372	-	AM1_C0297	-	-	hypothetical protein
+213293..213661	-	122	158340373	-	AM1_C0298	-	-	hypothetical protein
+213677..214552	-	291	158340374	-	AM1_C0299	-	COG4422S	phage protein Gp37/Gp68
+215335..215496	-	53	158340375	-	AM1_C0302	-	-	hypothetical protein
+215508..215843	-	111	158340376	-	AM1_C0303	-	-	hypothetical protein
+215938..216606	+	222	158340377	-	AM1_C0304	-	COG0745TK	two component transcriptional regulator
+216623..218092	+	489	158340378	-	AM1_C0305	-	COG0642T	two-component sensor histidine kinase, putative
+218379..218519	+	46	158340379	-	AM1_C0306	-	-	hypothetical protein
+218538..218762	-	74	158340380	-	AM1_C0307	-	-	hypothetical protein
+219439..219891	+	150	158340381	-	AM1_C0308	-	-	hypothetical protein
+219969..220085	-	38	158340382	-	AM1_C0309	-	-	hypothetical protein
+220107..220265	-	52	158340383	-	AM1_C0310	-	-	hypothetical protein
+220374..220565	-	63	158340384	-	AM1_C0311	-	-	hypothetical protein
+220670..220825	-	51	158340385	-	AM1_C0312	-	-	hypothetical protein
+220926..221066	+	46	158340386	-	AM1_C0313	-	-	hypothetical protein
+221225..221440	-	71	158340387	-	AM1_C0314	-	-	hypothetical protein
+221524..221736	-	70	158340388	-	AM1_C0315	-	-	hypothetical protein
+221819..222163	-	114	158340389	-	AM1_C0316	-	-	hypothetical protein
+222230..222496	-	88	158340390	-	AM1_C0317	-	-	hypothetical protein
+222933..223049	+	38	158340391	-	AM1_C0318	-	-	hypothetical protein
+223101..223397	+	98	158340392	-	AM1_C0319	-	-	hypothetical protein
+223546..223920	-	124	158340393	-	AM1_C0320	-	COG3324R	hypothetical protein
+224138..224266	+	42	158340394	-	AM1_C0321	-	-	hypothetical protein
+224263..224676	+	137	158340395	-	AM1_C0322	-	-	hypothetical protein
+224756..224869	+	37	158340396	-	AM1_C0323	-	-	hypothetical protein
+225276..225758	-	160	158340397	-	AM1_C0324	-	COG1396K	helix-turn-helix domain-containing protein
+225840..226166	+	108	158340398	-	AM1_C0325	-	COG4974L	hypothetical protein
+226960..228750	+	596	158340399	-	AM1_C0327	-	-	transposase, putative
+229079..230377	-	432	158340400	-	AM1_C0328	-	COG3344L	RNA-directed DNA polymerase
+230445..230558	+	37	158340401	-	AM1_C0329	-	-	hypothetical protein
+230913..231392	+	159	158340402	-	AM1_C0330	-	-	hypothetical protein
+231749..232147	+	132	158340403	-	AM1_C0331	-	-	hypothetical protein
+232233..232811	+	192	158340404	-	AM1_C0332	-	COG4106R	hypothetical protein
+232980..233321	+	113	158340405	-	AM1_C0333	-	-	circadian period extender, putative
+233336..233488	-	50	158340406	-	AM1_C0334	-	-	hypothetical protein
+233488..233691	+	67	158340407	-	AM1_C0335	-	-	hypothetical protein
+233705..234067	-	120	158340408	-	AM1_C0336	-	-	hypothetical protein
+234115..234504	+	129	158340409	-	AM1_C0337	-	-	hypothetical protein
+234682..234957	+	91	158340410	hup	AM1_C0338	-	COG0776L	DNA-binding protein HU
+235138..235944	+	268	158340411	rpoD	AM1_C0339	-	COG0568K	RNA polymerase sigma-70 factor
+236125..236832	-	235	158340412	-	AM1_C0340	-	COG1357S	pentapeptide repeat-containing protein
+236825..237040	-	71	158340413	-	AM1_C0341	-	-	hypothetical protein
+237989..238105	-	38	158340414	-	AM1_C0342	-	-	hypothetical protein
+238269..238382	+	37	158340415	-	AM1_C0343	-	-	hypothetical protein
+238648..239154	-	168	158340416	-	AM1_C0344	-	COG2318S	hypothetical protein
+239268..239426	-	52	158340417	-	AM1_C0345	-	-	hypothetical protein
+239956..240072	+	38	158340418	-	AM1_C0346	-	-	hypothetical protein
+240108..240599	+	163	158340419	-	AM1_C0347	-	-	hypothetical protein
+241044..241256	+	70	158340420	-	AM1_C0348	-	-	hypothetical protein
+241380..241778	+	132	158340421	-	AM1_C0349	-	-	hypothetical protein
+241863..242291	+	142	158340422	-	AM1_C0350	-	-	hypothetical protein
+242338..242580	+	80	158340423	-	AM1_C0351	-	-	hypothetical protein
+242755..243132	+	125	158340424	-	AM1_C0352	-	-	hypothetical protein
+243339..243614	+	91	158340425	hup	AM1_C0353	-	COG0776L	DNA-binding protein HU
+243645..243776	-	43	158340426	-	AM1_C0354	-	-	hypothetical protein
+243801..244622	+	273	158340427	rpoD	AM1_C0355	-	COG0568K	RNA polymerase sigma-70 factor
+244799..244948	+	49	158340428	-	AM1_C0356	-	-	hypothetical protein
+245048..245452	+	134	158340429	-	AM1_C0357	-	-	hypothetical protein
+245525..246007	+	160	158340430	-	AM1_C0358	-	-	hypothetical protein
+246202..246393	+	63	158340432	-	AM1_C0360	-	-	hypothetical protein
+246364..246801	-	145	158340431	-	AM1_C0359	-	-	hypothetical protein
+246761..246880	-	39	158340433	-	AM1_C0361	-	-	hypothetical protein
+247635..247958	+	107	158340434	-	AM1_C0362	-	COG1366T	anti-sigma-factor antagonist
+247939..248076	+	45	158340435	-	AM1_C0363	-	-	hypothetical protein
+248349..248471	-	40	158340436	-	AM1_C0364	-	-	hypothetical protein
+249694..250926	+	410	158340437	-	AM1_C0365	-	COG3706T	response regulator receiver, CheY-like protein
+251017..253761	+	914	158340438	-	AM1_C0366	-	COG0642T	two-component hybrid sensor and regulator histidine kinase
+254196..257027	+	943	158340439	-	AM1_C0367	-	-	hemolysin-type calcium-binding region protein
+257172..258032	-	286	158340440	-	AM1_C0368	-	-	hypothetical protein
+258141..258350	-	69	158340441	-	AM1_C0369	-	-	hypothetical protein
+258568..259083	-	171	158340442	-	AM1_C0370	-	-	hypothetical protein
+259182..259538	-	118	158340443	-	AM1_C0371	-	-	hypothetical protein
+259577..260218	-	213	158340444	-	AM1_C0372	-	-	hypothetical protein
+260260..260379	+	39	158340446	-	AM1_C0374	-	-	hypothetical protein
+260366..260764	-	132	158340445	-	AM1_C0373	-	-	hypothetical protein
+260757..261875	-	372	158340447	-	AM1_C0375	-	-	hypothetical protein
+262003..262116	+	37	158340448	-	AM1_C0376	-	-	hypothetical protein
+262221..262346	-	41	158340449	-	AM1_C0377	-	-	hypothetical protein
+262357..267936	+	1859	158340451	-	AM1_C0379	-	COG0507L	hypothetical protein
+267933..268133	-	66	158340450	-	AM1_C0378	-	-	hypothetical protein
+268194..270452	-	752	158340452	-	AM1_C0380	-	COG0419L	hypothetical protein
+270505..270861	-	118	158340453	-	AM1_C0381	-	-	hypothetical protein
+270858..272582	-	574	158340454	-	AM1_C0382	-	COG3505U	hypothetical protein
+272639..272785	+	48	158340455	-	AM1_C0383	-	-	hypothetical protein
+272785..323	+	219	158340456	-	AM1_C0001	-	COG4636S	hypothetical protein

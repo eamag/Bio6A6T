@@ -1,0 +1,7 @@
+Acetobacter pasteurianus 386B plasmid Apa386Bp7, complete sequence - 1..3851
+4 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+52..768	-	238	529218777	tnp	APA386B_7P1	-	-	transposase of IS6100
+729..935	-	68	529218778	-	APA386B_7P2	-	-	hypothetical protein
+1160..3511	+	783	529218779	-	APA386B_7P3	-	-	Adhesin/invasin TibA autotransporter
+3575..3775	-	66	529218780	-	APA386B_7P4	-	-	putative transposase

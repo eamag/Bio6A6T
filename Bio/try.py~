@@ -1,0 +1,27 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*- 
+from Bio import SeqIO
+from Levenshtein import distance
+import os
+NumOfDif = input("Enter Number of difference from 6A6T: ")+1
+cout = open('out.txt', 'w')
+for d, dirs, files in os.walk('/home/eamag/Bio'):
+	for names in files:
+		print (names)
+		path = os.path.join(d,names)
+		cout.write(names+'\n')
+		handle = open(path)
+		for record in SeqIO.parse(handle, "fasta") :
+ 		 x="AAAAAATTTTTT"
+ 		 w=record.seq
+ 		 count=0
+ 		 for i in range (0, len(str(w))-12):
+ 		     if distance(x, str(w)[i:(i+12)])<NumOfDif:
+ 		         count+=1
+  			 print (str(w)[i:(i+12)],i)
+         		 cout.write(str(w)[i:(i+12)]+' '+str(i)+'\n')
+    			 i+=1
+ 		 #print (count)
+		 #cout.write(str(count)+'\n\n')
+		handle.close()
+cout.close()

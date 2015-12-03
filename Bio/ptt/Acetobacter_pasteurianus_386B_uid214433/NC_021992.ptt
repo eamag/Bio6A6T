@@ -1,0 +1,14 @@
+Acetobacter pasteurianus 386B plasmid Apa386Bp3, complete sequence - 1..15601
+11 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+2643..3062	-	139	529232690	traA	APA386B_3P1	-	-	conjugal transfer relaxase TraA
+3367..3840	+	157	529232691	traD	APA386B_3P2	-	-	conjugal transfer protein TraD
+3837..4211	+	124	529232692	-	APA386B_3P3	-	-	hypothetical protein
+4613..5074	-	153	529232693	-	APA386B_3P4	-	-	hypothetical protein
+6101..7156	+	351	529232694	repA	APA386B_3P5	-	-	Replication initiator protein A
+7481..7828	-	115	529232695	-	APA386B_3P6	-	-	ParA-like protein
+8329..8988	-	219	529232696	resP	APA386B_3P7	-	-	site-specific recombinase
+9135..11108	+	657	529232697	-	APA386B_3P8	-	-	adenine specific DNA methylase
+11108..14041	+	977	529232698	-	APA386B_3P9	-	-	type III restriction-modification enzyme,helicase subunit
+14306..14977	-	223	529232699	-	APA386B_3P10	-	-	hypothetical protein
+14990..15259	-	89	529232700	yoeB	APA386B_3P11	-	-	hypothetical protein

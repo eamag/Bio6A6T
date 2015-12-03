@@ -1,0 +1,12 @@
+Acetobacter pasteurianus 386B plasmid Apa386Bp4, complete sequence - 1..11105
+9 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+861..2474	-	537	529218761	-	APA386B_4P1	-	-	outer membrane protein
+2438..2632	+	64	529218762	-	APA386B_4P2	-	-	hypothetical protein
+2952..3428	-	158	529218763	-	APA386B_4P3	-	-	hypothetical protein
+3705..4709	-	334	529218764	xerD	APA386B_4P4	-	-	integrase family protein
+4973..5353	+	126	529218765	-	APA386B_4P5	-	-	hypothetical protein
+5474..6910	-	478	529218766	-	APA386B_4P6	-	-	outer membrane protein
+7241..7753	+	170	529218767	-	APA386B_4P7	-	-	hypothetical protein
+8202..9029	-	275	529218768	-	APA386B_4P8	-	-	hypothetical protein
+9311..11062	+	583	529218769	-	APA386B_4P9	-	-	outer membrane protein

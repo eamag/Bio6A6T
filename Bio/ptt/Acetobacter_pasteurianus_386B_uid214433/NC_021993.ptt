@@ -1,0 +1,14 @@
+Acetobacter pasteurianus 386B plasmid Apa386Bp5, complete sequence - 1..9914
+11 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1016..1465	-	149	529232702	-	APA386B_5P1	-	-	hypothetical protein
+1768..3075	+	435	529232703	-	APA386B_5P2	-	-	hypothetical protein
+3386..3514	-	42	529232704	-	APA386B_5P3	-	-	hypothetical protein
+3517..3693	+	58	529232705	-	APA386B_5P4	-	-	hypothetical protein
+3724..4134	-	136	529232706	tnpR	APA386B_5P5	-	-	putative resolvase
+4175..4549	+	124	529232707	tnpA	APA386B_5P6	-	-	transposase
+4807..5346	-	179	529232708	rlgA	APA386B_5P7	-	-	resolvase domain-containing protein
+5476..5997	-	173	529232709	-	APA386B_5P8	-	-	hypothetical protein
+6271..6771	-	166	529232710	-	APA386B_5P9	-	-	hypothetical protein
+7008..7208	-	66	529232711	-	APA386B_5P10	-	-	hypothetical protein
+7280..8482	-	400	529232712	oprO	APA386B_5P11	-	-	phosphate-selective porin O and P

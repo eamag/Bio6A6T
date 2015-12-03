@@ -1,0 +1,8 @@
+Acetobacter pasteurianus 386B plasmid Apa386Bp6, complete sequence - 1..6548
+5 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1170..1349	-	59	529218771	-	APA386B_6P1	-	-	hypothetical protein
+1346..1810	-	154	529218772	repL	APA386B_6P2	-	-	plasmid replication protein
+2991..4136	-	381	529218773	hsdS	APA386B_6P3	-	-	restriction modification system DNA specificity subunit
+4608..4763	-	51	529218774	-	APA386B_6P4	-	-	hypothetical protein
+4766..5098	-	110	529218775	-	APA386B_6P5	-	-	hypothetical protein
